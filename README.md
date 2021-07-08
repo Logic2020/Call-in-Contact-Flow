@@ -1,2 +1,2 @@
 # Call-in-Contact-Flow
-Flows to prompt a CSR to locate an existing contact before creating a new one
+A Salesforce Flow that will prompt a CSR to search for a contact prior to creating them and then take them to the contact page once the contact has been located or created. 
